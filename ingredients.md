@@ -1,0 +1,10 @@
+poha,
+onion,
+potato,
+sugar,
+water,
+turmeric,
+red chilli powder,
+cooking oil,
+salt,
+corriander
